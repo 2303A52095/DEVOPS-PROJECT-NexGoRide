@@ -1,4 +1,4 @@
-# NexGoRide
+# DEVOPS-PROJECT-NexGoRide
 
 NexGoRide is a production-ready ride booking web application built with Node.js, Express.js, MongoDB, and EJS using MVC architecture.
 
